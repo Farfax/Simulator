@@ -1,0 +1,4 @@
+﻿  maincpp.cpp
+d:\pliki\moje dokumenty\visual studio 2015\projects\simulator\simulator\maincpp.cpp(8): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Simulator.vcxproj -> D:\Pliki\Moje Dokumenty\Visual Studio 2015\Projects\Simulator\Debug\Simulator.exe
+  Simulator.vcxproj -> D:\Pliki\Moje Dokumenty\Visual Studio 2015\Projects\Simulator\Debug\Simulator.pdb (Partial PDB)

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DEFECTS>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>d:\pliki\moje dokumenty\visual studio 2015\projects\simulator\simulator\</FILEPATH>
+      <FILENAME>world.cpp</FILENAME>
+      <LINE>265</LINE>
+      <COLUMN>11</COLUMN>
+    </SFA>
+    <DEFECTCODE>6246</DEFECTCODE>
+    <DESCRIPTION>Local declaration of 'newPosition' hides declaration of the same name in outer scope. For additional information, see previous declaration at line '255' of 'd:\pliki\moje dokumenty\visual studio 2015\projects\simulator\simulator\world.cpp'.</DESCRIPTION>
+    <FUNCTION>World::calculateCollision</FUNCTION>
+    <DECORATED>?calculateCollision@World@@QAEXPAVCharacter@@0ABVVector2i@@@Z</DECORATED>
+    <FUNCLINE>255</FUNCLINE>
+    <PATH>
+      <SFA>
+        <FILEPATH>d:\pliki\moje dokumenty\visual studio 2015\projects\simulator\simulator\</FILEPATH>
+        <FILENAME>world.cpp</FILENAME>
+        <LINE>255</LINE>
+        <COLUMN>96</COLUMN>
+      </SFA>
+    </PATH>
+  </DEFECT>
+</DEFECTS>
